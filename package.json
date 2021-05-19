@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "npm install -g kiss-my-resume && npm install && npm run build",
-    "build": "RENDER_MARKDOWN=true PROCESS_IMAGE=true kissmyresume build resume.json --theme node_modules/kcv-theme-mocha-responsive/ -o dist/"
+    "build": "RENDER_MARKDOWN=true PROCESS_IMAGE=true kissmyresume build resume.json --theme node_modules/kcv-theme-mocha-responsive/ -o dist/ -f html -n index"
   },
   "dependencies": {
     "kcv-theme-mocha-responsive": "^1.0.3"
