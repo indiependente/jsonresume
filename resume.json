@@ -40,7 +40,7 @@
             "summary": "Leading a new backend team in building a scalable customer backbone with the team by: driving the product architecture, promoting collaboration and engagement, integrating other internal systems and third parties, assuring code quality, controlling technical debt, ensuring healthy code reviews and safe releases.",
             "highlights": [
                 "First time a tech lead with a new team and mostly new team members",
-                "Designing a complete serverless solution"
+                "Designing a complete serverless solution leveraging AWS Lambda, DynamoDB, Kinesis and SQS"
             ]
         },
         {
@@ -84,7 +84,6 @@
             "studyType": "Master's Degree",
             "startDate": "2013-10-01",
             "endDate": "2016-09-31",
-            "gpa": "110L",
             "courses": [
                 "network science",
                 "distributed systems",
@@ -97,7 +96,6 @@
             "studyType": "Bachelor's Degree",
             "startDate": "2010-09-01",
             "endDate": "2013-09-01",
-            "gpa": "110L",
             "courses": [
                 "object oriented programming",
                 "computer networks",
