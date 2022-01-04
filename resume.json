@@ -105,7 +105,7 @@
     "skills": [
         {
             "name": "Backend Web services",
-            "level": "Expert",
+            "level": "Advanced",
             "keywords": [
                 "Go",
                 "Docker",
