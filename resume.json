@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Francesco Farina",
-        "label": "Technical Lead",
+        "label": "Senior Software Engineer",
         "picture": "https://res.cloudinary.com/indiependente/image/upload/v1621179521/resume/linkedin_tall_cp1vw1.jpg",
         "email": "mail.farinafrancesco@gmail.com",
         "phone": "+44 7847 7252203",
@@ -31,10 +31,21 @@
     },
     "work": [
         {
+            "company": "Sliide",
+            "position": "Senior Software Engineer",
+            "website": "https://www.sliide.com/",
+            "startDate": "2021-04-07",
+            "summary": "Building Go microservices at scale on Kubernetes to serve thousands requests per second.",
+            "highlights": [
+               "Member of the Platform team"
+            ]
+        },
+        {
             "company": "River Island",
             "position": "Technical Lead",
             "website": "https://www.riverisland.com/",
             "startDate": "2021-01-01",
+            "endDate": "2022-03-31",
             "summary": "Leading a new backend team in building a scalable customer backbone with the team by: driving the product architecture, promoting collaboration and engagement, integrating other internal systems and third parties, assuring code quality, controlling technical debt, ensuring healthy code reviews and safe releases.",
             "highlights": [
                 "First time a tech lead with a new team and mostly new team members",
@@ -110,6 +121,7 @@
                 "Go",
                 "Docker",
                 "AWS",
+                "Kubernetes",
                 "REST",
                 "gRPC",
                 "PostgreSQL",
@@ -124,6 +136,7 @@
             "level": "Intermediate",
             "keywords": [
                 "React",
+                "Vue",
                 "HTML",
                 "CSS",
                 "Javascript"
