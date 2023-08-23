@@ -33,7 +33,7 @@
             "company": "Sliide",
             "position": "Senior Software Engineer",
             "website": "https://www.sliide.com/",
-            "startDate": "2021-04-07",
+            "startDate": "2022-04-07",
             "summary": "Building Go microservices at scale on Kubernetes to serve thousands requests per second.",
             "highlights": [
                "Member of the Platform team"
