@@ -36,7 +36,7 @@
             "startDate": "2022-04-07",
             "summary": "Building Go microservices at scale on Kubernetes to serve thousands requests per second.",
             "highlights": [
-               "Member of the Platform team"
+                "Member of the Platform team: building and maintaining services focusing on content (news and videos) ingestion and serving to millions of devices"
             ]
         },
         {
@@ -59,7 +59,9 @@
             "endDate": "2020-12-31",
             "summary": "Building Go microservices at scale, contributing to building payments and orders services.",
             "highlights": [
-                "Go, AWS, Docker, CICD"
+                "Building and scaling services covering orders lifecycle focusing on the payments processes: integrating payment providers and payment flows using an event-driven architecture",
+                "Leveraging AWS technologies such as AWS Lambda, ECS, RDS, SQS and Kinesis to build a scalable serverless solution",
+                "Using Go, Docker, Concourse and Jenkins"
             ]
         },
         {
