@@ -2,10 +2,10 @@
     "basics": {
         "name": "Francesco Farina",
         "label": "Senior Software Engineer",
-        "picture": "https://res.cloudinary.com/indiependente/image/upload/v1621179521/resume/linkedin_tall_cp1vw1.jpg",
+        "picture": "https://res.cloudinary.com/indiependente/image/upload/w_300,f_auto/v1621179521/resume/linkedin_tall_cp1vw1.jpg",
         "email": "resume@indiependente.anonaddy.com",
         "website": "https://indiependente.dev",
-        "summary": "Backend engineer with 4+ years industry experience specialising in building scalable Go services in the ☁️ .",
+        "summary": "Backend engineer with 6+ years industry experience specialising in building scalable Go services in the ☁️ .",
         "location": {
             "city": "London",
             "countryCode": "UK"
@@ -36,7 +36,8 @@
             "startDate": "2022-04-07",
             "summary": "Building Go microservices at scale on Kubernetes to serve thousands requests per second.",
             "highlights": [
-                "Member of the Platform team: building and maintaining services focusing on content (news, videos and ads) ingestion and serving to millions of devices"
+                "Member of the Platform team: building and maintaining services focusing on content (news, videos and ads) ingestion and serving to millions of devices",
+                "Building a notification system to send millions of push notifications per day using AWS SNS and FCM"
             ]
         },
         {
@@ -47,7 +48,6 @@
             "endDate": "2022-03-31",
             "summary": "Leading a new backend team in building a scalable customer backbone with the team by: driving the product architecture, promoting collaboration and engagement, integrating other internal systems and third parties, assuring code quality, controlling technical debt, ensuring healthy code reviews and safe releases.",
             "highlights": [
-                "First time a tech lead with a new team and new team members",
                 "Designing a complete serverless solution leveraging AWS Lambda, DynamoDB, Kinesis and SQS"
             ]
         },
