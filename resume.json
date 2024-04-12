@@ -163,6 +163,15 @@
                 "Electric Guitar",
                 "VST"
             ]
+        },
+        {
+            "name": "Self-Hosting",
+            "keywords": [
+                "homelab",
+                "Proxmox",
+                "NAS",
+                "ZFS"
+            ]
         }
     ]
 }
