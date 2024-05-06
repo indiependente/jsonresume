@@ -136,6 +136,7 @@
             "name": "Web Development",
             "level": "Intermediate",
             "keywords": [
+                "HTMX",
                 "React",
                 "Vue",
                 "HTML",
