@@ -1,11 +1,11 @@
 {
     "basics": {
         "name": "Francesco Farina",
-        "label": "Senior Software Engineer",
+        "label": "Senior Platform Engineer",
         "picture": "https://res.cloudinary.com/indiependente/image/upload/w_300,f_auto/v1621179521/resume/linkedin_tall_cp1vw1.jpg",
         "email": "resume@indiependente.anonaddy.com",
         "website": "https://indiependente.dev",
-        "summary": "Backend engineer with 6+ years industry experience specialising in building scalable Go services in the ☁️ .",
+        "summary": "Backend engineer with 8+ years industry experience specialising in building scalable Go services in the ☁️, now powering the platform behind ML pipelines, vector search and ranking.",
         "location": {
             "city": "London",
             "countryCode": "UK"
@@ -31,9 +31,23 @@
     "work": [
         {
             "company": "Sliide",
+            "position": "Senior Platform Engineer",
+            "website": "https://www.sliide.com/",
+            "startDate": "2025-08-01",
+            "summary": "Backend engineer on the Platform team, building the Go services and data pipelines that feed the apps: powering content discovery, ranking and recommendations for millions of devices.",
+            "highlights": [
+                "Driving R&D projects from prototype to production, turning experiments into platform capabilities",
+                "Building and operating ML pipelines that feed content ranking and recommendation systems",
+                "Designing and integrating a vector store to power semantic search and similarity-based retrieval",
+                "Developing ranking algorithms to personalise the content served to millions of devices"
+            ]
+        },
+        {
+            "company": "Sliide",
             "position": "Senior Software Engineer",
             "website": "https://www.sliide.com/",
             "startDate": "2022-04-07",
+            "endDate": "2025-07-31",
             "summary": "Building Go microservices at scale on Kubernetes to serve thousands requests per second.",
             "highlights": [
                 "Member of the Platform team: building and maintaining services focusing on content (news, videos and ads) ingestion and serving to millions of devices",
@@ -130,6 +144,17 @@
                 "serverless",
                 "Terraform",
                 "CICD"
+            ]
+        },
+        {
+            "name": "Data & ML Platform",
+            "level": "Advanced",
+            "keywords": [
+                "ML pipelines",
+                "Vector Store",
+                "Ranking algorithms",
+                "Recommendation systems",
+                "Semantic search"
             ]
         },
         {

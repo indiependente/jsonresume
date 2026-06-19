@@ -5,5 +5,9 @@
   },
   "dependencies": {
     "kcv-theme-mocha-responsive": "^1.0.3"
+  },
+  "overrides": {
+    "handlebars": "^4.7.8",
+    "uglify-js": "^3.19.3"
   }
 }
