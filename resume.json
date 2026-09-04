@@ -1,11 +1,11 @@
 {
     "basics": {
         "name": "Francesco Farina",
-        "label": "Senior Platform Engineer",
+        "label": "Tech Lead, Recommendation Systems",
         "picture": "https://res.cloudinary.com/indiependente/image/upload/w_300,f_auto/v1621179521/resume/linkedin_tall_cp1vw1.jpg",
         "email": "resume@indiependente.anonaddy.com",
         "website": "https://indiependente.dev",
-        "summary": "Backend engineer with 8+ years industry experience specialising in building scalable Go services in the ☁️, now powering the platform behind ML pipelines, vector search and ranking.",
+        "summary": "Hands-on technical lead and backend/platform engineer with 9+ years of experience building scalable Go services and distributed systems. Leading Sliide’s Recommendation Systems team, with a focus on ML pipelines, vector search, retrieval and ranking for products serving millions of devices.",
         "location": {
             "city": "London",
             "countryCode": "UK"
@@ -31,15 +31,29 @@
     "work": [
         {
             "company": "Sliide",
+            "position": "Tech Lead, Recommendation Systems",
+            "website": "https://www.sliide.com/",
+            "startDate": "2026-09-04",
+            "summary": "Leading Sliide’s newly formed Recommendation Systems team, owning the technical direction and delivery of systems that personalise content for millions of devices.",
+            "highlights": [
+                "Owning the technical strategy and architecture for content recommendation, retrieval and ranking",
+                "Leading delivery across ML pipelines, vector search and Go services, from experimentation through production",
+                "Evolving platform capabilities into reliable recommendation products serving millions of devices",
+                "Establishing engineering practices that support experimentation, operational reliability and sustainable delivery"
+            ]
+        },
+        {
+            "company": "Sliide",
             "position": "Senior Platform Engineer",
             "website": "https://www.sliide.com/",
             "startDate": "2025-08-01",
-            "summary": "Backend engineer on the Platform team, building the Go services and data pipelines that feed the apps: powering content discovery, ranking and recommendations for millions of devices.",
+            "endDate": "2026-09-03",
+            "summary": "Built the Go services and data pipelines powering content discovery, ranking and recommendations for millions of devices.",
             "highlights": [
-                "Driving R&D projects from prototype to production, turning experiments into platform capabilities",
-                "Building and operating ML pipelines that feed content ranking and recommendation systems",
-                "Designing and integrating a vector store to power semantic search and similarity-based retrieval",
-                "Developing ranking algorithms to personalise the content served to millions of devices"
+                "Drove R&D projects from prototype to production, turning experiments into platform capabilities",
+                "Built and operated ML pipelines feeding content ranking and recommendation systems",
+                "Designed and integrated a vector store powering semantic search and similarity-based retrieval",
+                "Developed ranking algorithms to personalise the content served to millions of devices"
             ]
         },
         {
@@ -147,14 +161,26 @@
             ]
         },
         {
-            "name": "Data & ML Platform",
+            "name": "Recommendation Systems & ML Platform",
             "level": "Advanced",
             "keywords": [
-                "ML pipelines",
-                "Vector Store",
-                "Ranking algorithms",
                 "Recommendation systems",
+                "Retrieval and ranking",
+                "ML pipelines",
+                "Vector search",
                 "Semantic search"
+            ]
+        },
+        {
+            "name": "Technical Leadership",
+            "level": "Advanced",
+            "keywords": [
+                "Technical strategy",
+                "System architecture",
+                "Team leadership",
+                "Mentoring",
+                "Cross-functional delivery",
+                "R&D to production"
             ]
         },
         {
